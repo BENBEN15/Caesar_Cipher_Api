@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Caesar_Cipher_Api_.Controllers
+namespace Caesar_Cipher_Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]

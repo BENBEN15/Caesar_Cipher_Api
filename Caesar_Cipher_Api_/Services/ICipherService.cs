@@ -1,4 +1,4 @@
-﻿namespace Caesar_Cipher_Api_.Services
+﻿namespace Caesar_Cipher_Api.Services
 {
     public interface ICipherService
     {
