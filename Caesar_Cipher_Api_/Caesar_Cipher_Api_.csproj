@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Responses\" />
     <Folder Include="Services\" />
   </ItemGroup>
 
